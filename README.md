@@ -6,7 +6,7 @@ As a full-stack developer, each day presents a new opportunity to build my visio
 
    <!-- Social icons section -->
 <p align="center">
-  <a href="#"><img width="32px" alt="Facebook" title="Facebook" src="https://www.iconfinder.com/icons/5296499/fb_facebook_facebook%20logo_icon"/></a>
+  <a href="#"><img width="32px" alt="Facebook" title="Facebook" src="https://www.northcentralcollege.edu/sites/default/files/styles/teaser_medium/public/2019-06/f_logo_rgb-hex-blue_512.png?h=f061f288&itok=DpRLRbrN"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="50px" alt="Facebook" style="color:white;background:white;" title="Facebook" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/github-512.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
