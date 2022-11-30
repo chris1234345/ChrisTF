@@ -6,9 +6,9 @@ As a full-stack developer, each day presents a new opportunity to build my visio
 
    <!-- Social icons section -->
 <p align="center">
-  <a href="#"><img width="32px" alt="Facebook" title="Facebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/></a>
+  <a href="#"><img width="32px" alt="Facebook" title="Facebook" src="https://www.iconfinder.com/icons/5296499/fb_facebook_facebook%20logo_icon"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="Facebook" title="Facebook" src="https://pngimg.com/uploads/github/github_PNG20.png"/></a>
+  <a href="#"><img width="50px" alt="Facebook" title="Facebook" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/github-512.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
