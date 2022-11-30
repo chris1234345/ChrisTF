@@ -8,7 +8,7 @@ As a full-stack developer, each day presents a new opportunity to build my visio
 <p align="center">
   <a href="#"><img width="32px" alt="Facebook" title="Facebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="Github" title="Twitter"  <i class="devicon-github-original"></i> </a>
+  <a href="#"><img width="32px" alt="Facebook" title="Facebook" src="https://pngimg.com/uploads/github/github_PNG20.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
