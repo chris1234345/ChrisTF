@@ -6,7 +6,7 @@ As a full-stack developer, each day presents a new opportunity to build my visio
 
    <!-- Social icons section -->
 <p align="center">
-  <a href="#"><img width="50px" alt="Facebook" title="Facebook" src="https://o.remove.bg/downloads/3bd85239-57d2-4065-a3f0-6b18279409d2/kisspng-social-media-computer-icons-facebook-like-button-assessment-5ade4bcb32d0a2.5313517615245178352081-removebg-preview.png"/></a>
+  <a href="#"><img width="50px" alt="Facebook" title="Facebook" src="https://o.remove.bg/downloads/237a0e85-9b55-402c-bbe4-7ea262b0d49f/png-clipart-computer-icons-facebook-inc-youtube-facebook-messenger-facebook-blue-logo-removebg-preview.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="50px" alt="Facebook" style="color:white;background:white;" title="Facebook" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/github-512.png"/></a>
   <a href="https://dribbble.com/Christf1999"><img width="50px" alt="Dribble" style="color:white;background:white;" title="Dribble" src="https://o.remove.bg/downloads/1d767f31-a0e8-4aa7-98f8-9cd45e022ed1/R-removebg-preview.png"/></a>
